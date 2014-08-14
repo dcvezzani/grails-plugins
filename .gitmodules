@@ -1,0 +1,3 @@
+[submodule "cas-ucm"]
+	path = cas-ucm
+	url = git@github.com:dcvezzani/cas-ucm.git
